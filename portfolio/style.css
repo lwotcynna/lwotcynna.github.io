@@ -1,0 +1,65 @@
+@font-face {
+	font-family: iosevka;
+	src: url("../assets/fonts/Iosevka-Regular.ttf")
+}
+body {
+	font-family: iosevka;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	background-color: #0e1419;
+}
+section {
+	padding-top: 70px;
+}
+.jumbotron {
+	background-color: #abb2bf;
+}
+.rikka {
+	margin-top: 1rem;
+}
+.skills {
+	background-color: #abb2bf;
+}
+#homepg {
+	font-size: 400%;
+	line-height: 20%;
+}
+.about {
+	color: #abb2bf;
+}
+.skill-icon {
+	font-size: 500%;
+	line-height: 20%;
+}
+#contact {
+	color: #abb2bf;
+	padding-bottom: 40px;
+}
+.subbtn {
+	background-color: #61afff;
+	color: #000000;
+}
+footer {
+	padding-top: 50px;
+	padding-bottom: 5px;
+	background-color: #0e1419;
+	color: #abb2bf;
+}
+.h2-contact {
+	font-weight: bold;
+}
+#mdpw {
+	font-size: 70%;
+}
+.footicon {
+	font-size: 300%;
+	text-decoration: none;
+	line-height: 80%;
+}
+.ficon {
+	font-size: 500%;
+	line-height: 50%;
+}
+.ftitle {
+	font-size: 200%;
+}
